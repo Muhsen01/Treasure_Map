@@ -1,1 +1,1 @@
-# Treasure_Map
+# The Tresure Map mobile application developed using Flutter is a versatile tool designed to enhance location-based experiences for users. By leveraging the power of Google Maps API and incorporating intuitive features, this application provides seamless navigation and location services with added functionalities like capturing and tagging pictures with their respective locations.
